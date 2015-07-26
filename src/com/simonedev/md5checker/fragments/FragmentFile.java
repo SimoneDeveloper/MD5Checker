@@ -25,10 +25,6 @@ public class FragmentFile extends Fragment {
 	AdRequest adRequest;
 	Activity activity;
 	
-	public interface OnDataPassed {		
-		public void setData(String data);		
-	}
-	
 	@Override
 	public void onAttach(Activity activity) {
 		super.onAttach(activity);
