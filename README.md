@@ -1,5 +1,4 @@
 # MD5Checker
--> ★ Best Material MD5-Checker ★ <
 
 ![alt tag](http://i62.tinypic.com/14k9l5v.png)
 
