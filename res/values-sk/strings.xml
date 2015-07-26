@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="file">Súbor</string>
+	<string name="text">Text</string>
+	<string name="close">Zavrieť</string>
+	<string name="path">Cesta</string>
+	<string name="calculates">Vypočítať</string>
+	<string name="md5">MD5</string>
+	<string name="convert">Konvertovať</string>
+	<string name="copy">Kopírovať</string>
+	<string name="clean">Vyčistiť</string>
+	<string name="empty_field">Prázdne pole</string>
+	<string name="no_file_selected">Žiadny vybratý súbor</string>
+	<string name="clipboard">Textbol skopírovaný do schránky</string>	
+	<string name="compares">Porovnať</string>
+	<string name="share">Zdieľať</string>
+	<string name="rate">Ohodnotiť</string>
+	<string name="share_with">Zdieľať pomocou</string>
+	<string name="share_text">Stiahnite si MD5 Checker od SimoneDev</string>	
+	<string name="dialog_title">Vypočítavanie MD5</string>			
+	<string name="dialog_text">Buďte trpezlivý, môže to chvíľu trvať</string>	
+	<string name="md5_match">MD5 sa zhoduje</string>    
+	<string name="md5_not_match">MD5 sa nezhoduje</string>    
+    
+</resources>

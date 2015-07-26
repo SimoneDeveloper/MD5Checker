@@ -1,0 +1,26 @@
+
+	<RelativeLayout 
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+    	xmlns:tools="http://schemas.android.com/tools"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:fitsSystemWindows="true">
+
+	<include
+    	android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>		    
+	    
+    <com.simonedev.md5checker.utils.PagerSlidingTabStrip
+        android:id="@+id/pager_tab_strip"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_below="@+id/toolbar"
+        android:elevation="5dp"/>  	    
+	    
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pager_tab_strip"/>	        
+    
+	</RelativeLayout>

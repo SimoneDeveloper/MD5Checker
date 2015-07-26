@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="file">Файл</string>
+	<string name="text">Текст</string>
+	<string name="close">Закрыть</string>
+	<string name="path">Путь</string>
+	<string name="calculates">Подсчитать</string>
+	<string name="md5">MD5</string>
+	<string name="convert">Конвертировать</string>
+	<string name="copy">Копировать</string>
+	<string name="clean">Сброс</string>
+	<string name="empty_field">Поле не заполнено</string>
+	<string name="no_file_selected">Файл не выбран</string>
+	<string name="clipboard">Текст скопирован в буфер обмена</string>	
+	<string name="compares">Сравнить</string>
+	<string name="share">Поделиться</string>
+	<string name="rate">Оценить</string>
+	<string name="share_with">Использовать</string>
+	<string name="share_text">Загрузить MD5 Checker от SimoneDev</string>	
+	<string name="dialog_title">Подсчет MD5</string>			
+	<string name="dialog_text">Подождите, это займет некоторое время</string>	
+	<string name="md5_match">MD5 совпали</string>    
+	<string name="md5_not_match">MD5 не совпали</string>    
+    
+</resources>

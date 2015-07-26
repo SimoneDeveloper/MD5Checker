@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MD5 Checker</string>
+	<string name="file">File</string>
+    <string name="text">Testo</string>
+	<string name="close">Chiudi</string>
+    <string name="path">Percorso</string>
+	<string name="calculates">Calcola</string>
+    <string name="md5">MD5</string>
+	<string name="convert">Converti</string>
+    <string name="copy">Copia</string>
+	<string name="clean">Elimina</string>
+    <string name="empty_field">Campo vuoto</string>
+	<string name="no_file_selected">Nessun file selezionato</string>
+    <string name="clipboard">Testo copiato negli appunti</string>
+    <string name="compares">Compara</string>
+    <string name="share">Condividi</string>
+    <string name="rate">Vota</string>
+    <string name="share_with">Condividi con</string>
+    <string name="share_text">Scarica MD5 Checker by SimoneDev</string>	
+    <string name="dialog_title">Calcolando l\'MD5</string>			
+    <string name="dialog_text">Sii paziente, questa operazione può impiegare del tempo</string>	
+    <string name="md5_match">Gli MD5 combaciano</string>    
+    <string name="md5_not_match">Gli MD5 non combaciano</string>  
+        
+</resources>

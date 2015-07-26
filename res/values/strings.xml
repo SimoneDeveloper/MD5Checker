@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MD5 Checker</string>
+	<string name="file">File</string>
+    <string name="text">Text</string>
+	<string name="close">Close</string>
+    <string name="path">Path</string>
+	<string name="calculates">Calculates</string>
+    <string name="md5">MD5</string>
+	<string name="convert">Convert</string>
+    <string name="copy">Copy</string>
+	<string name="clean">Clean</string>
+    <string name="empty_field">Empty field</string>
+	<string name="no_file_selected">No file selected</string>
+    <string name="clipboard">Text copied to the clipboard</string>	
+    <string name="compares">Compares</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="share_with">Share with</string>
+    <string name="share_text">Download MD5 Checker by SimoneDev</string>	
+    <string name="dialog_title">Calculating MD5</string>			
+    <string name="dialog_text">Be patient, this may take some time</string>	
+    <string name="md5_match">The MD5 match</string>    
+    <string name="md5_not_match">The MD5 don\'t match</string>    
+    
+</resources>
