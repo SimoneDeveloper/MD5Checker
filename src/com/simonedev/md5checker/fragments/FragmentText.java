@@ -105,7 +105,7 @@ public class FragmentText extends Fragment {
 	
 	public String calculateMD5(String text) {
 		try {
-			MessageDigest digest = MessageDigest.getInstance("MD5");
+		    MessageDigest digest = MessageDigest.getInstance("MD5");
 		    digest.update(text.getBytes());
 		    byte messageDigest[] = digest.digest();
 
