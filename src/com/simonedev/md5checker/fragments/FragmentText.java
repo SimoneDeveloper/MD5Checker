@@ -104,15 +104,14 @@ public class FragmentText extends Fragment {
 	}
 	
 	public String calculateMD5(String text) {
-		MessageDigest digest;
 		try {
-			digest = java.security.MessageDigest.getInstance("MD5");
+			MessageDigest digest = MessageDigest.getInstance("MD5");
 		    digest.update(text.getBytes());
 		    byte messageDigest[] = digest.digest();
 
 		    StringBuffer stringBuffer = new StringBuffer();
-		    for (int i=0; i<messageDigest.length; i++) {
-		    	stringBuffer.append(Integer.toHexString(0xFF & messageDigest[i]));		    	
+		    for(int i=0; i<messageDigest.length; i++) {
+		    	stringBuffer.append(Integer.toString((messageDigest[i] & 0xff) + 0x100, 16).substring(1));
 		    }
 		    
 		    return stringBuffer.toString();
